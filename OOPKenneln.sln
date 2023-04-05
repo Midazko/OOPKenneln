@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPKenneln", "OOPKenneln\OOPKenneln.csproj", "{04F34421-CF85-45A4-AC41-DFD13F5776CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04F34421-CF85-45A4-AC41-DFD13F5776CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F34421-CF85-45A4-AC41-DFD13F5776CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F34421-CF85-45A4-AC41-DFD13F5776CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F34421-CF85-45A4-AC41-DFD13F5776CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0856EDBF-F1E3-44B0-8116-6C68E5A98CA6}
+	EndGlobalSection
+EndGlobal
